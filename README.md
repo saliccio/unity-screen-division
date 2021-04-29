@@ -15,6 +15,6 @@ Camera Prefab - The camera prefab that will be instantiated.
 
 Stretch Axis - The axis you want to stretch the regular cameras along.
 
-Irregular Axis - The axis you want to stretch the irregular camera (if exists) along.
+Irregular Axis - The axis you want to place the irregular camera (if exists).
 
 Targets - The targets you want to follow with cameras.
