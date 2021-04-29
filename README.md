@@ -1,7 +1,7 @@
 # Unity Camera Division
 
 ## Camera division package for Unity3D
-This package includes a C# script that allows to use multiple cameras in one screen.
+This package includes a C# script that allows you to use multiple cameras in one screen.
 
 You can create a GameObject and attach the MultipleCameraFollow script to it.
 
