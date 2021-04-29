@@ -5,6 +5,8 @@ This package includes a C# script that allows you to use multiple cameras in one
 
 You can create a GameObject and attach the MultipleCameraFollow script to it.
 
+You can also look at the demo scene.
+
 ## Properties
 Camera Prefab - The camera prefab that will be instantiated.
 
