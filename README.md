@@ -1,8 +1,8 @@
-# Unity Camera Division
+# Unity Screen Division
 
-## Camera division package for Unity3D
+## Split screen package for Unity3D
 
-![alt text](https://raw.githubusercontent.com/sfurkan20/unity-camera-division/main/images/example.PNG)
+![](https://raw.githubusercontent.com/sfurkan20/unity-camera-division/main/images/example.PNG)
 
 This package includes a C# script that allows you to use multiple cameras in one screen.
 
