@@ -4,7 +4,7 @@
 
 ![](https://raw.githubusercontent.com/sfurkan20/unity-camera-division/main/images/example.PNG)
 
-This package includes a C# script that allows you to use multiple cameras once.
+This package includes a C# script that allows you to use multiple cameras at once.
 
 You can create a GameObject and attach the MultipleCameraFollow script to it.
 
